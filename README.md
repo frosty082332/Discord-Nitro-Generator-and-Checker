@@ -6,23 +6,20 @@
 </p>
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/logo.png" alt="Logo" width="150" height="150">
-  </a>
   
   <h3 align="center">Discord Nitro Generator and Checker</h3>
 
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/social404/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
+    <a href="https://github.com/social404/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
+    <a href="https://github.com/social404/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
       ·
-    <a href="https://discord.gg/rchHUU9aGk">Join the discord</a>
+    <a href="https://discord.gg/kE9vk9Zeuf">Join the discord</a>
   </p>
 </p>
   
